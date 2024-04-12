@@ -10,7 +10,7 @@
 
 ## Clone project
 ```bash
-git clone https://github.com/myckhel/church-management-system.git
+git clone https://github.com/Redemption19/Church-Management-System.git
 ```
 ## Install Composer Dependencies
 ```bash
